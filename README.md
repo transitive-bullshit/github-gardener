@@ -1,1 +1,1 @@
-This is the GitHub Gardener project
+Some people have gotten LOADS of commits. If you are one of them, sorry for that, I did a stupid mistake. I accidentaly set the scheduler for the commits to run every 10 minutes instead of every 10 hours, I probably need some sleep. I fixed it though. Expect from 0-7 commits per day from now on. You can also delete this repository and then go to githubgardener.xyz and click 'Sign Up with GitHub' again. The repo will be created again. Sorry for the inconvinience, all the best, Alex.
