@@ -1,26 +1,20 @@
 
-			Hey everyone!
+			You are using now using Stealth Mode <3
 
-			The bot can now push automated pull requests, code reviews and issues!
+			One quick thing! I had an idea and built a new feature!
 
-			Plus, GitHub announced that private repositories are now available for everyone!
+			The bot can now push automated pull requests, code reviews and issues.
 
-			That means you can now have a green contribution history and a diamond contribution chart, and no one can see the commits since they are made in a private repository.
+			That means you can now have a green contribution history and a diamond contribution chart!
 
-			So the features we have are:
+			It's called Ninja Mode and it costs $10/mo, two cups coffees per month :P
 
-			--> Stealth ($5/mo): Automated commits to a private repository
+			You can upgrade to Ninja by visiting www.githubgardener.co
 
-			--> Ninja ($10/mo): Automated commits, pull requests, code reviews and issues to a private repository
+			Thank you for supporting me chasing my dream, that of living by doing what I love most, it means the world to me <3
 
-			Basically the tiers are at the price of one and two cups of coffee per month respectively. I think that's fair :)
+			Please, make sure to find me and even DM me on Twitter @alexsideris_ or in the chatbox at githubgardener.co
 
-			Thank you once again for using GitHub Gardener, honestly. I am still trying to achieve my dream of living by doing what I love, and I am getting closer and closer every day!!!
-
-			Please, make sure to find me and even DM me on Twitter @alexsideris_ or in the chatbox at githubgardener.co 
-
-			You can upgrade to Stealth or Ninja here: www.githubgardener.co
-
-			Much love, Alex
+			Alex
 
 			
