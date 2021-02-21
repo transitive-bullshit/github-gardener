@@ -13,7 +13,7 @@
 
 			Thank you for supporting me chasing my dream, that of living by doing what I love most, it means the world to me <3
 
-			Please, make sure to find me and even DM me on Twitter @alexsideris_ or in the chatbox at githubgardener.co
+			Please, make sure to find me and even DM me on Twitter @alexwestco or in the chatbox at githubgardener.co
 
 			Alex
 
