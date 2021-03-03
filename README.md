@@ -1,20 +1,47 @@
 
-			You are using now using Stealth Mode <3
+			Hello my lovely friend.
 
-			One quick thing! I had an idea and built a new feature!
+			Unfortunately, today is the day I'm shutting down GitGardener :(
 
-			The bot can now push automated pull requests, code reviews and issues.
 
-			That means you can now have a green contribution history and a diamond contribution chart!
+			I really loved it. Honestly. After all, it was my first project that people
 
-			It's called Ninja Mode and it costs $10/mo, two cups coffees per month :P
+			actually used, and even paid money for.
 
-			You can upgrade to Ninja by visiting www.githubgardener.co
 
-			Thank you for supporting me chasing my dream, that of living by doing what I love most, it means the world to me <3
+			Fast forward two years later, and I've built another twenty products,
 
-			Please, make sure to find me and even DM me on Twitter @alexwestco or in the chatbox at githubgardener.co
+			with one of them becoming so successful that I actually doubled my salary
 
-			Alex
+			and quit pursuing my dreams.
+
+
+			Without GitGardener, and my first ever paying customers, I would have quit.
+
+			So, if it wasn't for you specifically, I wouldn't be living my dreams right now.
+
+			And I can't thank you enough for that!
+
+
+			The reality is that this project requires maintenance. And, unfortunately
+
+			I don't have that time anymore.
+
+			As for your subscription, don't worry at all.
+
+
+			I have already canceled it for you from the back end. You will no longer be charged.
+
+			Also, if you were on an annual plan, I have refunded you the remaining amount of time.
+
+			
+			Once again, thank you for everything. You helped me change my life. I can only hope that I helped you a little with my bot :)
+
+			Feel free to reach out to me at alexcs02356@gmail.com, if you have any questions or just want to say hi.
+
+			
+			Much love!
+
+			Your friend from GitGardener, Alex
 
 			
